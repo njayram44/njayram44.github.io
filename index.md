@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Nishanth Jayram
 
-You can use the [editor on GitHub](https://github.com/njayram44/njayram44.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a computer science and mathematics major at UC Santa Cruz. My interests lie in machine learning, nature language processing, and theoretical computer science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some relevant links:
+- [GitHub](https://github.com/njayram44)
+- [LinkedIn](https://www.linkedin.com/in/nishanth-jayram/)
+- [Resume](https://docs.google.com/document/d/1RY86Sw6ctR4P_6tKRs9ZoWyH1Nt-Vc5odi09Mp1yVgY/edit?usp=sharing)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/njayram44/njayram44.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site will be updated to include more information in the future.
