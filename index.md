@@ -1,5 +1,3 @@
-# Nishanth Jayram
-
 I'm a computer science and mathematics major at UC Santa Cruz. My interests lie in machine learning, nature language processing, and theoretical computer science.
 
 Some relevant links:
